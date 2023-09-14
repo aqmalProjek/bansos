@@ -1,0 +1,25 @@
+@import url(bootstrap.min.css);
+
+.bg-bantuansosial {
+  background-image: url('https://spiritnews.co.id/wp-content/uploads/2019/05/1P0B7755bmkt-bagi-sembako.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.bgLogin {
+  background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,0.7091211484593838) 0%, rgba(9,9,121,0.6530987394957983) 50%, rgba(0,212,255,0.5438550420168067) 100%);
+height: 100vh;
+}
+
+.bg-blur {
+  backdrop-filter: blur(10px);
+}
+
+.forLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
